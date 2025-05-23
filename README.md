@@ -15,16 +15,13 @@ Welcome to my GitHub! I’m a curious developer, enthusiastic student, and ambit
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white)
-
 ## 🏗️ Notable Projects
 
-### [SMART ESTATE](#)
+### [SMART ESTATE](https://github.com/Anushka123Garg/Real-Estate)
 A smart and modern solution for managing real estate efficiently!  
-👉 [Go to the Real Estate repo for more details.](https://github.com/Anushka123Garg/Real-Estate) 
 
-### [Time Series Analysis for Weather Prediction](#)
-Harnessing the power of machine learning to analyze time series data and predict weather patterns with improved accuracy.
-👉 [Go to the repo for more details.](https://github.com/Anushka123Garg/Time-Series-Analysis) 
+### [Time Series Analysis for Weather Prediction](https://github.com/Anushka123Garg/Time-Series-Analysis)
+Harnessing the power of machine learning to analyze time series data and predict weather patterns with improved accuracy. 
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka%20Garg-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anushka-garg-28664922b/)
