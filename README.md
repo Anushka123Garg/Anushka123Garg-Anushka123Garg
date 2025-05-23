@@ -1,13 +1,12 @@
 # 👋 Hey there, I’m Anushka Garg!
 
-Welcome to my GitHub! I’m a curious Developer, enthusiastic Student, and ambitious Fresher who loves to code, create, and learn new things every day.
+Welcome to my GitHub! I’m a curious developer, enthusiastic student, and ambitious coder who loves to code, create, and learn new things every day.
 
 ## 🚀 About Me
 - 💻 I’m passionate about all things tech—building, breaking, and fixing!
-- 🌱 Currently leveling up my skills in web development and machine learning.
-- 🎯 I thrive on solving problems with C++, Python, JavaScript, Next.js, and React.js.
+- 🌱 Currently leveling up my skills in full-stack development and machine learning.
+- 🎯 I thrive on solving problems with C++, Python, JavaScript.
 - 🤓 Always eager to learn the latest frameworks and explore innovative ideas.
-- 🏆 My motto: “Why fit in when you were born to stand out?”
 
 ## 🌟 Top Skills
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -17,9 +16,15 @@ Welcome to my GitHub! I’m a curious Developer, enthusiastic Student, and ambit
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white)
 
-## 🏗️ Notable Project
+## 🏗️ Notable Projects
+
 ### [SMART ESTATE](#)
-A smart and modern solution for managing real estate efficiently! (Details coming soon…)
+A smart and modern solution for managing real estate efficiently!  
+👉 [Go to the Real Estate repo for more details.](https://github.com/Anushka123Garg/Real-Estate) 
+
+### [Time Series Analysis for Weather Prediction](#)
+Harnessing the power of machine learning to analyze time series data and predict weather patterns with improved accuracy.
+👉 [Go to the repo for more details.](https://github.com/Anushka123Garg/Time-Series-Analysis) 
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka%20Garg-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anushka-garg-28664922b/)
